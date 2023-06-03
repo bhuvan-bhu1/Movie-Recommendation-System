@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.option{
+    height: 30px;
+    width: 300px;
+    margin-left: 100px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border: none;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-left: 20px;
+    font-size: 15px;
+}
+
+.submit{
+    height: 30px;
+    width: 50px;
+    border-radius: 50%;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.copy{
+    color: wheat;
+    margin-left: 26px;
+}
+.github{
+    width: 70px;
+}
+.git{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 1000px;
+    margin-top: 300px;
+}
